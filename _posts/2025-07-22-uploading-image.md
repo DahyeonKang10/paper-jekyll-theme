@@ -17,7 +17,7 @@ Let's work !
 ![test_kitten_from_internet](https://www.fitpetmall.com/wp-content/uploads/2023/10/shutterstock_1844153299-1024x683-1.png)
 This is how to upload the image from the internet!
 
-![test_kitten](/assets/images/test_kitten.jpeg)
+![test_kitten](/css/kitten.jpeg)
 
 This is how to upload from your assets
 
